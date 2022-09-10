@@ -1,0 +1,51 @@
+/* =================
+  WRITE YOUR CSS HERE.
+  Check the ⌄ for help with formatting and validating your code.
+  You must write some CSS to complete this challenge.
+   ===================
+*/
+
+html,
+body {
+  margin: 10;
+  height: 100%;
+  width: 80%;
+  background-color: #fffdd0;
+}
+header {
+  background-image: url(https://i.pinimg.com/736x/1b/8d/7a/1b8d7ab25f90d908ea982b501656248e.jpg);
+  height: 500px;
+  width: 
+}
+h1 {
+  font-family: "Lucida Handwriting";
+  color: #b35900;
+}
+h2 {
+  font-family: "Brush Script MT";
+  color: #b35900;
+}
+p {
+    font-style: italic;
+}
+#navbar {
+  color: green;
+}
+#opening {
+  color: red;
+}
+#song {
+  color: red;
+}
+
+#career {
+  color: red;
+}
+
+
+
+/* don't edit this */
+.jest-lite-report__status--pass {
+  background: var(--color-pass);
+}
+.jest-lite-report__errors { display:none }
